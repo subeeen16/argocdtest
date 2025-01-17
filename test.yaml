@@ -12,7 +12,7 @@ metadata:
   labels:
     app: olivetask
 spec:
-  replicas: 3
+  replicas: 5
   selector:
     matchLabels:
       app: olivetask
